@@ -1,0 +1,2 @@
+module DealattendeesHelper
+end

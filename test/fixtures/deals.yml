@@ -1,0 +1,19 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  dealname: MyString
+  city_id: 1
+  description: MyString
+  summary: MyString
+  starttime: 2011-03-15 03:04:55
+  endtime: 2011-03-15 03:04:55
+  address: MyString
+
+two:
+  dealname: MyString
+  city_id: 1
+  description: MyString
+  summary: MyString
+  starttime: 2011-03-15 03:04:55
+  endtime: 2011-03-15 03:04:55
+  address: MyString
