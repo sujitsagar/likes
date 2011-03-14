@@ -10,4 +10,8 @@ class User < ActiveRecord::Base
       has_many :dealattendees
       has_many :deals, :through => :dealattendee
 
+      has_many :productlikes
+      has_many :products, :through => :productlike
+
+
 end
